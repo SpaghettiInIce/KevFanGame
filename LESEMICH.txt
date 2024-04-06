@@ -1,0 +1,35 @@
+**README - GERMAN**
+
+**Willkommen bei KevFanGame**
+
+Vielen Dank für Ihr Interesse an KevFanGame! Diese Anleitung wird Sie durch den Prozess der Installation und Ausführung des Spiels auf Ihrem System führen. Bitte folgen Sie den Anweisungen unten sorgfältig.
+
+### Installationsanweisungen:
+
+1. **Laden Sie die Spieldateien herunter:**
+   - Suchen Sie den Ordner mit allen erforderlichen Dateien für das Spiel. Diese Dateien umfassen:
+     - `python-3.12.2.exe`
+     - `pipInstaller.py`
+     - `setup.py`
+
+2. **Python installieren:**
+   - Starten Sie mit der Ausführung von `python-3.12.2.exe`.
+   - Befolgen Sie die Bildschirmanweisungen des Installationsprogramms, um den Python-Installationsprozess abzuschließen.
+
+3. **Abhängigkeiten installieren:**
+   - Nachdem Python installiert wurde, führen Sie `pipInstaller.py` aus.
+   - Dieses Skript installiert automatisch alle erforderlichen Python-Pakete, die zum Ausführen des Spiels benötigt werden. Bitte haben Sie Geduld und warten Sie, bis die Installation abgeschlossen ist.
+
+4. **Einrichtung:**
+   - Nachdem die Abhängigkeiten installiert wurden, führen Sie `setup.py` aus.
+   - Dieses Skript führt alle zusätzlichen Einrichtungsaufgaben aus, die erforderlich sind, damit das Spiel reibungslos funktioniert.
+
+### Spiel starten:
+
+5. **Starten Sie das Spiel:**
+   - Sobald `setup.py` die Ausführung abgeschlossen hat, navigieren Sie zum Verzeichnis, in dem sich die Spieldateien befinden.
+   - Suchen Sie nach `output.exe` und klicken Sie mit der rechten Maustaste darauf.
+   - Wählen Sie "Als Administrator ausführen", um eine ordnungsgemäße Ausführung sicherzustellen.
+   - Das Spiel sollte nun starten, und Sie können mit dem Spielen beginnen!
+
+Vielen Dank, dass Sie sich für KevFanGame entschieden haben! Viel Spaß beim Spielen!
